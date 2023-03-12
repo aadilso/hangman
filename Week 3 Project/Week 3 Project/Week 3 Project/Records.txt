@@ -1,0 +1,2 @@
+Name: Aadil | Gamemode : 5 | Answer : microscope | Duration : 72.7434 seconds | Result: Game won with 5 guesses used
+Name: Brady | Gamemode : 2 | Answer : book | Duration : 20.3922 seconds | Result: Game lost
